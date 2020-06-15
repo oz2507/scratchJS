@@ -1,0 +1,4 @@
+input,textarea {
+    box-shadow: 1px 1px 2px 0 #707070 inset;
+    border-radius: 4px;
+}
