@@ -1,4 +1,4 @@
-# NuxtApp
+# SampleApp
 
 ## Build Setup
 
